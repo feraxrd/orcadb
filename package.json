@@ -1,0 +1,19 @@
+{
+  "name": "orcadb",
+  "version": "1.0.0",
+  "description": "A simple JSON file-based database module",
+  "main": "src/orcadb.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": ["database", "json", "file-based"]
+}
